@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://vickylu.github.io/Blog/sitemap.xml 
