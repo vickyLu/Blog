@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[thoughts of the wise]]></title>
+  <link href="http://vickylu.github.io/Blog/atom.xml" rel="self"/>
+  <link href="http://vickylu.github.io/Blog/"/>
+  <updated>2015-05-28T20:43:47-05:00</updated>
+  <id>http://vickylu.github.io/Blog/</id>
+  <author>
+    <name><![CDATA[victoria c S]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome]]></title>
+    <link href="http://vickylu.github.io/Blog/blog/2015/05/27/awesome/"/>
+    <updated>2015-05-27T00:00:00-05:00</updated>
+    <id>http://vickylu.github.io/Blog/blog/2015/05/27/awesome</id>
+    <content type="html"><![CDATA[<h1>i love my life</h1>
+
+<h2>who cares if you dont</h2>
+
+<h3>i dont i still keep pushing towards better</h3>
+
+<h4>and ur stuck</h4>
+]]></content>
+  </entry>
+  
+</feed>
